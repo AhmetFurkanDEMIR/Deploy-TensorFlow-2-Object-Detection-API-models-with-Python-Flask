@@ -5,6 +5,7 @@ from flask_socketio import SocketIO, emit
 import base64
 import numpy as np
 import cv2
+import os
 
 # The processed image is created by interfering with the numpy array from the outside.
 from modelConfig import main

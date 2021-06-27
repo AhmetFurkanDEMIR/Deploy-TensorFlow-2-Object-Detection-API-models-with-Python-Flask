@@ -63,6 +63,5 @@ python3 main.py
 
 [v](https://user-images.githubusercontent.com/54184905/123538349-234a9780-d73d-11eb-9334-f811bfdf3822.mp4)
 
-![Screenshot_20210626-101819_Chrome](https://user-images.githubusercontent.com/54184905/123538353-26de1e80-d73d-11eb-95d7-652c3a9880ee.jpg)
-
+![Screenshot_20210626-101819_Chrome](https://user-images.githubusercontent.com/54184905/123538664-b2a47a80-d73e-11eb-8cff-f384cd52fe85.jpg)
 

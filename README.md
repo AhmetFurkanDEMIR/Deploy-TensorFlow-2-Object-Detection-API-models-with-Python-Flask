@@ -17,6 +17,7 @@ The operation of the application is given in the diagram below, the image taken 
 First of all, install the python packages in the requirements.txt to the server (you can install these packages with the command below).
 
 ```console
+sudo su
 pip3 install -r requirements.txt
 ```
 
@@ -54,7 +55,7 @@ socketio.run(app, host="0.0.0.0", port=443, ssl_context=('cert.pem', 'key.pem'))
 Everything is ok now, your python site will be up with the following command and you can access the site by going to https://xxxx. I will go to https://168.62.57.147, you can edit the url part according to you.
 
 ```console
-python3 main.py
+sudo python3 main.py
 ```
 
 **Information :** In the current application, we will use the model named "ssd_mobilenet_v2_320x320_coco17_tpu-8" and we will use ready-made "coco" weights and classes, if you wish, you can use this web application with your own model and your own classes.
